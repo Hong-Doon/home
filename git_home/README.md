@@ -1,3 +1,3 @@
-Hello I'm DongHun Kim
-My major is AIBigData management
-I'm 23 year's old
+Hello I'm DongHun Kim  
+My major is AI BigData management  
+I'm 23 year's old  
